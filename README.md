@@ -1,9 +1,14 @@
 SASSY DUCK
 ==========
 
-Sassy Duck is an experiment in using HTML & CSS for lightweight, scalable images. The duck is created using no images.
+Sassy Duck is a duck rendered in HTML/CSS. Browser performance may vary.
 
-I've used SASS (hence the name) and HAML to make it a little more fun to read than plain old CSS, but the processed version is available if you'd like to throw it into a project.
+I've used SASS (hence the name) and HAML to make it a little more fun to read than plain old CSS, but the processed version is available also.
+
+Demo
+----
+
+A demo is available at: http://donovanh.github.com/duck
 
 Code & Notes
 ------------
