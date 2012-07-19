@@ -1,9 +1,12 @@
 SASSY DUCK
 ==========
 
-Sassy Duck is a duck rendered in HTML/CSS. Browser performance may vary.
+Sassy Duck is a duck rendered in HAML/SASS (http://sass-lang.com). Browser performance may vary.
 
-I've used SASS (hence the name) and HAML to make it a little more fun to read than plain old CSS, but the processed version is available also.
+Why
+---
+
+http://i.imgur.com/FKRqc.gif
 
 Demo
 ----
