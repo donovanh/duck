@@ -1,0 +1,30 @@
+html {
+	font-size:120%;
+	font-family: HelveticaNeue, Helvetica, Arial, Sans-serif;
+	text-align:center;
+}
+.duck-container {
+	width:32.125em;
+	margin:40px auto;
+}
+
+header {
+	display:inline-block;
+	width:300px;
+}
+
+header .duck {
+	font-size:4px;
+	transform:rotateY(180deg);
+	-ms-transform:rotateY(180deg); /* IE 9 */
+	-moz-transform:rotateY(180deg); /* Firefox */
+	-webkit-transform:rotateY(180deg); /* Safari and Chrome */
+	-o-transform:rotateY(180deg); /* Opera */
+	float:left;
+	margin-left:-140px;
+}
+
+.bigduck .duck {
+	font-size:32px;
+	margin: 0 auto;
+}

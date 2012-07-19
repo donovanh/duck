@@ -1,14 +1,13 @@
 .duck-container {
-	width:32.125em;
-	margin:40px auto;
+	height:350px;
 }
 .duck {
   font-size: 12px;
   width: 32.125em;
   height: 25em;
   position: absolute;
-  top: 0;
-  left: 40px;
+  /*top: 0;
+  left: 40px;*/
   /* @include rotateY(180deg) */
 }
 .duck .head {
