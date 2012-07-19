@@ -1,5 +1,6 @@
 .duck-container {
 	height:350px;
+	margin: 0 auto;
 }
 .duck {
   font-size: 12px;
